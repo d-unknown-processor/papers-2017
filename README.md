@@ -14,3 +14,4 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Dense Associative Memory is Robust to Adversarial Inputs](https://arxiv.org/abs/1701.00939)
 - [ ] [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584)
 - [ ] [Multi-Label Image Classification with Regional Latent Semantic Dependencies](https://arxiv.org/abs/1612.01082)
+- [ ] [Recent Advances in Convolutional Neural Networks](https://arxiv.org/abs/1512.07108)
