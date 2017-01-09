@@ -18,3 +18,5 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Learning From Noisy Large-Scale Datasets With Minimal Supervision](https://arxiv.org/abs/1701.01619)
 - [ ] [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810)
 - [ ] [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
+- [ ] [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
+- [ ] [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)
