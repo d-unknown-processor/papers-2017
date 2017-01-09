@@ -15,3 +15,6 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584)
 - [ ] [Multi-Label Image Classification with Regional Latent Semantic Dependencies](https://arxiv.org/abs/1612.01082)
 - [ ] [Recent Advances in Convolutional Neural Networks](https://arxiv.org/abs/1512.07108)
+- [ ] [Learning From Noisy Large-Scale Datasets With Minimal Supervision](https://arxiv.org/abs/1701.01619)
+- [ ] [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810)
+- [ ] [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
