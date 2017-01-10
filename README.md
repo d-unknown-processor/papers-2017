@@ -20,3 +20,4 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
 - [ ] [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
 - [ ] [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)
+- [x] [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis](https://arxiv.org/abs/1701.02096)
