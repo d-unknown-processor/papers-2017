@@ -23,3 +23,4 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis](https://arxiv.org/abs/1701.02096)
 - [ ] [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712)
 - [ ] [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)
+- [ ] [Unsupervised Learning of Long-Term Motion Dynamics for Videos](https://arxiv.org/abs/1701.01821)
