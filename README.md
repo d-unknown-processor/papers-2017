@@ -24,3 +24,8 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712)
 - [ ] [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)
 - [ ] [Unsupervised Learning of Long-Term Motion Dynamics for Videos](https://arxiv.org/abs/1701.01821)
+- [ ] [Son of Zorn's Lemma: Targeted Style Transfer Using Instance-aware Semantic Segmentation](https://arxiv.org/abs/1701.02357)
+- [ ] [Visualizing Residual Networks](https://arxiv.org/abs/1701.02362)
+- [ ] [Scene Graph Generation by Iterative Message Passing](https://arxiv.org/abs/1701.02426)
+- [ ] [Unsupervised Image-to-Image Translation with Generative Adversarial Networks](https://arxiv.org/abs/1701.02676)
+- [ ] [AdaGAN: Boosting Generative Models](https://arxiv.org/abs/1701.02386)
