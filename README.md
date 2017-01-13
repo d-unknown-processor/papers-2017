@@ -29,3 +29,6 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Scene Graph Generation by Iterative Message Passing](https://arxiv.org/abs/1701.02426)
 - [x] [Unsupervised Image-to-Image Translation with Generative Adversarial Networks](https://arxiv.org/abs/1701.02676)
 - [x] [AdaGAN: Boosting Generative Models](https://arxiv.org/abs/1701.02386)
+- [x] [Context-aware Captions from Context-agnostic Supervision](https://arxiv.org/abs/1701.02870)
+- [x] [A More General Robust Loss Function](https://arxiv.org/abs/1701.03077)
+- [x] [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
