@@ -32,3 +32,5 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Context-aware Captions from Context-agnostic Supervision](https://arxiv.org/abs/1701.02870)
 - [x] [A More General Robust Loss Function](https://arxiv.org/abs/1701.03077)
 - [x] [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
+- [ ] [Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech Recognition](https://arxiv.org/abs/1701.03360)
+- [ ] [Attention-Based Multimodal Fusion for Video Description](https://arxiv.org/abs/1701.03126)
