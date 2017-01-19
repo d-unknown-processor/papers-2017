@@ -43,3 +43,7 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Hierarchical Question-Image Co-Attention for Visual Question Answering](https://arxiv.org/abs/1606.00061)
 - [ ] [Learning the Number of Neurons in Deep Networks](https://arxiv.org/abs/1611.06321)
 - [ ] [Feedback Networks](https://arxiv.org/abs/1612.09508)
+- [ ] [Bringing Impressionism to Life with Neural Style Transfer in Come Swim](https://arxiv.org/abs/1701.04928)
+- [ ] [Multilayer Perceptron Algebra](https://arxiv.org/abs/1701.04968)
+- [ ] [A Theoretical Framework for Robustness of (Deep) Classifiers against Adversarial Samples](https://arxiv.org/abs/1612.00334)
+- [ ] [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](https://arxiv.org/abs/1606.01305)
