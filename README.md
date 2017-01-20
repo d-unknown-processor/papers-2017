@@ -47,3 +47,7 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Multilayer Perceptron Algebra](https://arxiv.org/abs/1701.04968)
 - [ ] [A Theoretical Framework for Robustness of (Deep) Classifiers against Adversarial Samples](https://arxiv.org/abs/1612.00334)
 - [x] [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](https://arxiv.org/abs/1606.01305)
+- [ ] [Image Generation and Editing with Variational Info Generative AdversarialNetworks](https://arxiv.org/abs/1701.04568)
+- [ ] [Human perception in computer vision](https://arxiv.org/abs/1701.04674)
+- [ ] [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722)
+- [ ] [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/abs/1612.02295)
