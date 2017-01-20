@@ -51,3 +51,4 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Human perception in computer vision](https://arxiv.org/abs/1701.04674)
 - [ ] [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722)
 - [ ] [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/abs/1612.02295)
+- [ ] [Lipschitz Properties for Deep Convolutional Networks](https://arxiv.org/abs/1512.06293)
