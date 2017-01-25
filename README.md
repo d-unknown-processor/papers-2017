@@ -52,3 +52,7 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722)
 - [ ] [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/abs/1612.02295)
 - [ ] [Lipschitz Properties for Deep Convolutional Networks](https://arxiv.org/abs/1512.06293)
+- [ ] [Greedy Compositional Clustering for Unsupervised Learning of Hierarchical Compositional Models](https://arxiv.org/abs/1701.06171)
+- [x] [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
+- [ ] [Normative Theory of Visual Receptive Fields](https://arxiv.org/abs/1701.06333)
+- [x] [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548)
