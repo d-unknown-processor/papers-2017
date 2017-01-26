@@ -56,3 +56,5 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
 - [ ] [Normative Theory of Visual Receptive Fields](https://arxiv.org/abs/1701.06333)
 - [x] [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548)
+- [ ] [Learning Arbitrary Potentials in CRFs with Gradient Descent](https://arxiv.org/abs/1701.06805)
+- [ ] [Sparse models for Computer Vision](https://arxiv.org/abs/1701.06859)
