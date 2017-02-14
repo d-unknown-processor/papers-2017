@@ -63,3 +63,5 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [A Novel Weight-Shared Multi-Stage Network Architecture of CNNs for Scale Invariance](https://arxiv.org/abs/1702.03505)
 - [x] [Generative Mixture of Networks](https://arxiv.org/abs/1702.03307)
 - [ ] [Non-convex learning via Stochastic Gradient Langevin Dynamics: a nonasymptotic analysis](https://arxiv.org/abs/1702.03849)
+- [ ] [A Deterministic and Generalized Framework for Unsupervised Learning with Restricted Boltzmann Machines](https://arxiv.org/abs/1702.03260)
+- [ ] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
