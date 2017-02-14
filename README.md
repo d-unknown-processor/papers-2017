@@ -58,3 +58,8 @@ Papers from 2017 (mostly) that I found interesting.
 - [x] [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548)
 - [ ] [Learning Arbitrary Potentials in CRFs with Gradient Descent](https://arxiv.org/abs/1701.06805)
 - [ ] [Sparse models for Computer Vision](https://arxiv.org/abs/1701.06859)
+- [ ] [Multi-Resolution Dual-Tree Wavelet Scattering Network for Signal Classification](https://arxiv.org/abs/1702.03345)
+- [ ] [ArtGAN: Artwork Synthesis with Conditional Categorial GANs](https://arxiv.org/abs/1702.03410)
+- [ ] [A Novel Weight-Shared Multi-Stage Network Architecture of CNNs for Scale Invariance](https://arxiv.org/abs/1702.03505)
+- [ ] [Generative Mixture of Networks](https://arxiv.org/abs/1702.03307)
+- [ ] [Non-convex learning via Stochastic Gradient Langevin Dynamics: a nonasymptotic analysis](https://arxiv.org/abs/1702.03849)
