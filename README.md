@@ -61,5 +61,5 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Multi-Resolution Dual-Tree Wavelet Scattering Network for Signal Classification](https://arxiv.org/abs/1702.03345)
 - [ ] [ArtGAN: Artwork Synthesis with Conditional Categorial GANs](https://arxiv.org/abs/1702.03410)
 - [ ] [A Novel Weight-Shared Multi-Stage Network Architecture of CNNs for Scale Invariance](https://arxiv.org/abs/1702.03505)
-- [ ] [Generative Mixture of Networks](https://arxiv.org/abs/1702.03307)
+- [x] [Generative Mixture of Networks](https://arxiv.org/abs/1702.03307)
 - [ ] [Non-convex learning via Stochastic Gradient Langevin Dynamics: a nonasymptotic analysis](https://arxiv.org/abs/1702.03849)
