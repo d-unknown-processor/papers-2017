@@ -65,3 +65,4 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [Non-convex learning via Stochastic Gradient Langevin Dynamics: a nonasymptotic analysis](https://arxiv.org/abs/1702.03849)
 - [ ] [A Deterministic and Generalized Framework for Unsupervised Learning with Restricted Boltzmann Machines](https://arxiv.org/abs/1702.03260)
 - [ ] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
+- [ ] [Practical Learning of Predictive State Representations](https://arxiv.org/abs/1702.04121)
