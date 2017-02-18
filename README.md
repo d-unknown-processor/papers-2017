@@ -66,3 +66,6 @@ Papers from 2017 (mostly) that I found interesting.
 - [ ] [A Deterministic and Generalized Framework for Unsupervised Learning with Restricted Boltzmann Machines](https://arxiv.org/abs/1702.03260)
 - [ ] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
 - [ ] [Practical Learning of Predictive State Representations](https://arxiv.org/abs/1702.04121)
+- [ ] [Discovering objects and their relations from entangled scene representations](https://arxiv.org/abs/1702.05068)
+- [ ] [Visualizing Deep Neural Network Decisions: Prediction Difference Analysis](https://arxiv.org/abs/1702.04595)
+- [ ] [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649)
